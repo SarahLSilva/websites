@@ -1,0 +1,70 @@
+img {
+    width: 15%;
+   padding-left: 40px;
+   padding-top: 40px;
+   margin: 10px;
+}
+nav#menu ul{
+    text-transform: uppercase;
+    list-style: none;
+    position: absolute;
+    top: 40px;
+    left: 900px;
+}
+nav#menu{
+    display: block;
+}
+nav#menu li{
+    display: inline-block;
+    background-color: rgb(36, 36, 36);
+    padding: 15px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+nav#menu h1{
+    display: none;
+}
+body{
+    margin: 0px;
+    background-color: rgb(36, 36, 36);
+}
+header{
+    background-color: rgb(24,24,24);
+    padding-top: 70px;
+    padding-bottom: 60px;
+    position: relative;
+}
+/* nav#menu p{
+    position: absolute;
+    padding-top: 14px;
+    left: 200px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: larger; 
+    font-weight: bolder;
+} */
+#titulo{
+    font-size: 70px;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(57, 57, 57);
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+nav#menu a:link{
+    text-decoration: none;
+    color:rgb(24, 24, 24);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+nav#menu a:visited{
+    color: rgb(16, 16, 16);
+}
+nav#menu a:hover{
+    color:rgb(17, 65, 108);
+    transition: all 0.2s ease;
+}
