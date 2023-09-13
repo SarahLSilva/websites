@@ -5,4 +5,4 @@ Primeira versão do projeto [WebProdutos](https://github.com/SarahLSilva/webprod
 
 ## Detalhes
 
-Foi feito entre as datas 26/04 até 01/05.
+Foi feito entre as datas 26/04 até 01/05
