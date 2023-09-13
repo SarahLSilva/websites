@@ -1,11 +1,7 @@
-# Projeto WebSite
+# Projeto WebSite💫
 
 <img src="imagem/Gravando 2023-09-13 073821.gif">
 
-## Descrição
-
-=======
-# Projeto WebSite💫
 >>>>>>> b60808328a2549027c3df94d1117fc5aea359718
 Este projeto é umua melhorada do projeto a seguir:
 
@@ -13,7 +9,8 @@ Primeira versão do projeto [WebProdutos](https://github.com/SarahLSilva/webprod
 x
 ## indice
 
-## Projeto de escrita readme
+* []
+* []
 
 ## descrição
 
